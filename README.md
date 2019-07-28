@@ -1,6 +1,6 @@
 INTRODUCTION
 
-This is an android application, which is made because of people from different occupation are not focusing on there health. So, what do i mean to say, this application will notify them to get off your chair and talk a walk ,give relaxation to your eyes.
+This is an android application, which is made because of people from different occupation are not focus on there health. So, what do i mean to say, this application will notify them to get off your chair and talk a walk ,give relaxation to your eyes.
 
 ![eggTimer1](https://user-images.githubusercontent.com/43117040/62004875-69111680-b148-11e9-9a32-57153c1ff02f.png)
 
